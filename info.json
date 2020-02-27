@@ -1,0 +1,13 @@
+{
+    "project": [
+        {
+            "author": "Michael Peters",
+            "projectName": "AutomaticPlantWateringAWS",
+            "version": "0.0.1",
+            "description": "This is a repository for our automatic plant watering system developed for CPSC411 at Gonzaga University",
+            "longDescription": "Using Amazon Web Services, we will be using a pump and weather sensors to monitor and water a plant with the power of the Cloud and AWS IoT",
+            "githubLink": "https://github.com/michaelpeterswa/AutomaticPlantWateringAWS",
+            "date": "02.26.2020"
+        }
+    ]
+}
