@@ -1,0 +1,11 @@
+{
+  "data": {
+    "isWaterDetected": "True",
+    "Temperature": "0",
+    "Humidity": "0"
+  },
+  "frontend": {
+    "willWater": "True",
+    "duration": "5"
+  }
+}
