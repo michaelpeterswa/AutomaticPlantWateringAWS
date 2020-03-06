@@ -1,11 +1,13 @@
 {
   "data": {
-    "isWaterDetected": "True",
-    "Temperature": "0",
-    "Humidity": "0"
-  },
+    "Pressure": "952.030517578", 
+    "isWaterDetected": "600", 
+    "Temperature": "112.1", 
+    "Humidity": "16.935836792"
+  }, 
   "frontend": {
-    "willWater": "True",
+    "willWater": "True", 
     "duration": "5"
   }
 }
+
